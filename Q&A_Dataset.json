@@ -1,0 +1,1493 @@
+{
+    "data": [
+                {
+                    "context": "In the realm of physics, a Time Machine is a hypothetical device that allows for travel forwards or backwards in time, based on principles of special relativity and causality. While modern science has not yet realized such a device, it remains a popular subject of theoretical physics and science fiction.",
+                    "qas": [
+                        {
+                            "question": "What is a Time Machine?",
+                            "id": "001",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "text": "Time Machine is a hypothetical device that allows for travel forwards or backwards in time, based on principles of special relativity and causality.",
+                                    "answer_start": 27
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Imagine you're with Doraemon, and you just found a strange gadget in his pocket. It's the Time Machine! Doraemon explains that this gadget can take you to any moment in the past or future. Just like in episode 12, where Doraemon and Nobita use it to travel back in time to meet the dinosaurs. While it's all fun in the cartoon, real-world physics currently sees time travel as a fascinating theory, mostly explored in theories of relativity.",
+                    "qas": [
+                        {
+                            "question": "Can you help me to understand the concept of Time Machine through anime or cartoons?",
+                            "id": "002",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "text": "Doraemon explains that this gadget can take you to any moment in the past or future. Just like in episode 12, where Doraemon and Nobita use it to travel back in time to meet the dinosaurs.",
+                                    "answer_start": 104
+                                }
+                            ]
+                        }
+					]
+				},
+				{
+					"context": "Imagine you're with Doraemon, and you just found a strange gadget in his pocket. It's the Time Machine! Doraemon explains that this gadget can take you to any moment in the past or future. Just like in episode 12, where Doraemon and Nobita use it to travel back in time to meet the dinosaurs. While it's all fun in the cartoon, real-world physics currently sees time travel as a fascinating theory, mostly explored in theories of relativity.",
+					"qas": [
+                        {
+                            "question": "Which anime helps me to understand the time machine?",
+                            "id": "003",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "text": "Doraemon",
+                                    "answer_start": 19
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "In the world of 'Naruto', the concept of photosynthesis is explained through the character of Hashirama Senju, also known as the God of Shinobi. Hashirama has the unique ability to manipulate wood and plants, symbolizing the process of photosynthesis. This ability is not just for combat; it represents growth, life, and the conversion of sunlight into energy, mirroring the natural process plants use to feed themselves and produce oxygen. The narrative cleverly uses Hashirama's wood manipulation techniques to showcase how energy is harnessed from the sun, emphasizing the importance of living in harmony with nature.",
+                    "qas": [
+                        {
+                            "question": "How is the concept of photosynthesis explained through the Anime 'Naruto'?",
+                            "id": "004",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "text": "In the world of 'Naruto', the concept of photosynthesis is explained through the character of Hashirama Senju, also known as the God of Shinobi. Hashirama has the unique ability to manipulate wood and plants, symbolizing the process of photosynthesis.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+						{
+							"question": "Which anime helps me to understand Photosynthesis?",
+							"id": "005",
+							"is_impossible": false,
+							"answers": [
+								{
+									"text": "Naruto",
+									"answer_start": 18
+								}
+							]
+						}
+                    ]
+                },
+
+                {
+                    "context": "Gravity, a fundamental force of nature, is the attraction between objects with mass. The greater the mass, the stronger the gravitational pull. In theoretical physics, gravity is not just a force but also influences the curvature of spacetime, as described by Einstein's theory of general relativity. This concept finds its way into various anime, where gravity's effects are often exaggerated or manipulated to create dramatic or comedic effects",
+                    "qas": [
+                        {
+                            
+                            "id": "006",
+                            "is_impossible": false,
+							"question": "What is Gravity?",
+                            "answers": [
+                                {
+                                    "text": "a fundamental force of nature, is the attraction between objects with mass.",
+                                    "answer_start": 8
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "In the universe of 'Dragon Ball Z', the concept of gravity is taken to new heights with the Gravity Machine. This device, used primarily by Vegeta in his training, can increase the gravitational force up to 100 times Earth's gravity. This allows the characters to train under extreme conditions, enhancing their strength and agility far beyond normal human capabilities. While this is a fictional exaggeration, it creatively illustrates how manipulating gravity could theoretically enhance physical training.",
+                    "qas": [
+                        {
+                            
+                            "id": "007",
+                            "is_impossible": false,
+							"question": "How does 'Dragon Ball Z' intensify gravity for training purposes?",
+                            "answers": [
+                                {
+                                    "text": "the Gravity Machine. This device, used primarily by Vegeta in his training, can increase the gravitational force up to 100 times Earth's gravity.",
+                                    "answer_start": 88
+                                }
+                            ]
+                        },
+                        {
+                            "id": "008",
+                            "is_impossible": false,
+							"question": "Which Anime demonstrates the concept of Gravity?",
+                            "answers": [
+                                {
+                                    "text": "Dragon Ball Z",
+                                    "answer_start": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+				
+				{
+                    "context": "Evolution, a cornerstone of biological sciences, refers to the process through which species undergo changes over generations, adapting to their environment through natural selection. This scientific concept is vividly explored in anime, where evolution is often depicted in a much more rapid or fantastical manner, such as through the evolution of creatures or the sudden acquisition of new abilities by characters.",
+                    "qas": [
+                        {
+                            
+                            "id": "009",
+                            "is_impossible": false,
+							"question": "What is evolution?",
+                            "answers": [
+                                {
+                                    "text": "the process through which species undergo changes over generations, adapting to their environment through natural selection.",
+                                    "answer_start": 59
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "In 'Pokemon', evolution takes on a unique form, where creatures evolve into more powerful versions of themselves, often triggered by specific conditions such as gaining enough experience, being exposed to certain stones, or through bonding. This portrayal offers a simplified and dramatized interpretation of evolutionary concepts, sparking interest and curiosity about the science of evolution among viewers.",
+                    "qas": [
+                        {
+                            
+                            "id": "010",
+                            "is_impossible": false,
+							"question": "How is evolution portrayed in 'Pokemon'?",
+                            "answers": [
+                                {
+                                    "text": "creatures evolve into more powerful versions of themselves, often triggered by specific conditions such as gaining enough experience, being exposed to certain stones, or through bonding.",
+                                    "answer_start": 54
+                                }
+                            ]
+                        },
+                        {
+                            
+                            "id": "011",
+                            "is_impossible": false,
+							"question": "Which Anime helps to understand Evolution?",
+                            "answers": [
+                                {
+                                    "text": "Pokemon",
+                                    "answer_start": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+					"context": "Thermodynamics, the branch of physics that deals with heat, work, and the forms of energy involved in physical processes, lays the foundation for understanding how energy is converted and transferred. In anime, thermodynamics can be creatively interpreted to craft stories that feature characters controlling or manipulating heat and energy, demonstrating the principles of energy conservation and entropy in visually engaging ways.",
+					"qas": [
+						{
+							
+							"id": "012",
+							"is_impossible": false,
+							"question": "What is thermodynamics in Anime?",
+							"answers": [
+								{
+								"text": "In anime, thermodynamics can be creatively interpreted to craft stories that feature characters controlling or manipulating heat and energy, demonstrating the principles of energy conservation and entropy in visually engaging ways.",
+								"answer_start": 201
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In the anime 'Fullmetal Alchemist', the law of Equivalent Exchange is portrayed as a central principle that mirrors the laws of thermodynamics, specifically the first law which states that energy cannot be created or destroyed, only transformed. This principle is central to the alchemists' ability to manipulate their surroundings, emphasizing the balance and transfer of energy in a mystical yet scientifically resonant way",
+					"qas": [
+						{
+							
+							"id": "013",
+							"is_impossible": false,
+							"question": "How does the law of Equivalent Exchange in 'Fullmetal Alchemist' demonstrate a concept from thermodynamics?",
+							"answers": [
+								{
+									"text": "In the anime 'Fullmetal Alchemist', the law of Equivalent Exchange is portrayed as a central principle that mirrors the laws of thermodynamics, specifically the first law which states that energy cannot be created or destroyed, only transformed.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Climate change, defined as long-term shifts in temperatures and weather patterns, primarily due to human activities such as burning fossil fuels, has become an urgent global issue. Anime often incorporates themes of environmentalism and the consequences of humanity's impact on the Earth, using vivid storytelling and imagery to highlight the importance of protecting our planet and mitigating climate change.",
+					"qas": [
+						{
+							
+							"id": "014",
+							"is_impossible": false,
+							"question": "How is climate change explained through anime?",
+							"answers": [
+								{
+									"text": "Anime often incorporates themes of environmentalism and the consequences of humanity's impact on the Earth, using vivid storytelling and imagery to highlight the importance of protecting our planet and mitigating climate change.",
+									"answer_start": 181
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "The anime 'Mushishi' explores the delicate balance between humans and nature, subtly addressing themes related to climate change and environmental protection. It portrays the mushi, ethereal creatures that represent the various forms of life and natural phenomena, affected by the changes in their ecosystems. Through its narrative, 'Mushishi' emphasizes the interconnectedness of all life forms and the impact of human actions on the environment, echoing the real-world challenges of climate change.",
+					"qas": [
+						{
+							
+							"id": "015",
+							"is_impossible": false,
+							"question": "Which Anime helps to understand climate change?",
+							"answers": [
+								{
+									"text": "The anime 'Mushishi' explores the delicate balance between humans and nature",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": " Vaporization is the phase transition of a substance from a liquid to a gas. This process can occur through evaporation or boiling, depending on the conditions. In anime, vaporization is often depicted in scenarios involving battles or powers that control elements, illustrating the transformation of water or other liquids into gas with dramatic flair. Such portrayals can serve as a bridge to understanding the scientific principles behind phase transitions in a fun and engaging way.",
+					"qas": [
+						{
+							
+							"id": "016",
+							"is_impossible": false,
+							"question": "What is vaporization?",
+							"answers": [
+								{
+									"text": " Vaporization is the phase transition of a substance from a liquid to a gas. This process can occur through evaporation or boiling, depending on the conditions.",
+									"answer_start": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In the anime 'Naruto', characters utilize a variety of jutsu techniques that can cause vaporization. For example, the use of Fire Style jutsu by ninjas to heat water can rapidly convert it to steam, effectively using the process of vaporization as a tactic in combat. These instances not only add to the excitement of battles but also introduce viewers to the concept of phase transitions in a context that is both entertaining and somewhat educational.",
+					"qas": [
+						{
+							
+							"id": "017",
+							"is_impossible": false,
+							"question": "How is vaporization depicted in 'Naruto'?",
+							"answers": [
+								{
+									"text": "the use of Fire Style jutsu by ninjas to heat water can rapidly convert it to steam, effectively using the process of vaporization as a tactic in combat.",
+									"answer_start": 114
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment, interacting as a system. These interactions form a web of relationships that sustain the ecosystem's balance. Anime often explores these complex relationships, portraying ecosystems ranging from realistic to fantastical settings, and highlights the importance of every element within these systems for maintaining ecological balance.",
+					"qas": [
+						{
+							
+							"id": "018",
+							"is_impossible": false,
+							"question": "What is an ecosystem?",
+							"answers": [
+								{
+									"text": "a community of living organisms in conjunction with the nonliving components of their environment, interacting as a system.",
+									"answer_start": 16
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In discussions about environmental conservation and the importance of ecosystems, the anime 'Princess Mononoke' serves as a poignant illustration. The story delves into the impact of human industrialization on the natural world and portrays a vivid struggle between forest creatures and humans. This conflict highlights the delicate balance necessary between human development and environmental preservation. Through its narrative, 'Princess Mononoke' underscores the critical role of ecosystems in sustaining life and the interconnectedness of all living beings.",
+					"qas": [
+						{
+							"id": "019",
+							"is_impossible": false,
+							"question": "Which anime explores the importance of ecosystems and their preservation?",
+							"answers": [
+								{
+									"text": "the anime 'Princess Mononoke' serves as a poignant illustration. The story delves into the impact of human industrialization on the natural world and portrays a vivid struggle between forest creatures and humans.",
+									"answer_start": 82
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Kinetic energy is the energy that an object possesses due to its motion. It is determined by the object's mass and the square of its velocity, showing that faster or more massive objects have higher kinetic energy. In anime, kinetic energy is often visualized through dynamic action scenes, where characters or objects move with incredible speed or force, embodying the concept that movement generates energy.",
+					"qas": [
+						{
+							"id": "020",
+							"is_impossible": false,
+							"question": "What is kinetic energy?",
+							"answers": [
+								{
+									"text": "In anime, kinetic energy is often visualized through dynamic action scenes, where characters or objects move with incredible speed or force, embodying the concept that movement generates energy.",
+									"answer_start": 215
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'My Hero Academia', the character All Might demonstrates the concept of kinetic energy through his 'Smash' attacks, where he delivers punches with immense force. These attacks visually exemplify kinetic energy, as All Might's incredible speed and mass contribute to the devastating impact of his moves. This not only serves as a thrilling element of the storyline but also subtly introduces the principles of kinetic energy to viewers.",
+					"qas": [
+						{
+							
+							"id": "021",
+							"is_impossible": false,
+							"question": "How does 'My Hero Academia' demonstrate kinetic energy?",
+							"answers": [
+								{
+									"text": "All Might demonstrates the concept of kinetic energy through his 'Smash' attacks, where he delivers punches with immense force.",
+									"answer_start": 36
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'My Hero Academia', the character All Might demonstrates the concept of kinetic energy through his 'Smash' attacks, where he delivers punches with immense force. These attacks visually exemplify kinetic energy, as All Might's incredible speed and mass contribute to the devastating impact of his moves. This not only serves as a thrilling element of the storyline but also subtly introduces the principles of kinetic energy to viewers.",
+					"qas": [
+						{
+							
+							"id": "022",
+							"is_impossible": false,
+							"question": "Which anime demonstrates kinetic Energy?",
+							"answers": [
+								{
+									"text": "My Hero Academia",
+									"answer_start": 4
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Plate tectonics is the scientific theory that explains the movement of Earth's lithospheric plates over the asthenosphere. It accounts for many geological phenomena, including earthquakes, volcanic eruptions, and the formation of mountain ranges. In anime, the concept of plate tectonics can be explored in stories that deal with epic natural disasters or the grandeur of nature, allowing viewers to appreciate the dynamic Earth through engaging narratives.",
+					"qas": [
+						{
+							
+							"id": "023",
+							"is_impossible": false,
+							"question": "What is plate tectonics?",
+							"answers": [
+								{
+									"text": "the scientific theory that explains the movement of Earth's lithospheric plates over the asthenosphere.",
+									"answer_start": 19
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "The anime 'Tokyo Magnitude 8.0' uses the backdrop of a massive earthquake to explore human resilience and the science behind such natural disasters. This series indirectly addresses plate tectonics by showing the devastating effects of the movement of Earth's plates, providing a narrative that is both educational and profoundly emotional, highlighting the impact of geological forces on human lives.",
+					"qas": [
+						{
+							
+							"id": "024",
+							"is_impossible": false,
+							"question": "How does 'Tokyo Magnitude 8.0' relate to plate tectonics?",
+							"answers": [
+								{
+									"text": "The anime 'Tokyo Magnitude 8.0' uses the backdrop of a massive earthquake to explore human resilience and the science behind such natural disasters.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "The anime 'Tokyo Magnitude 8.0' uses the backdrop of a massive earthquake to explore human resilience and the science behind such natural disasters. This series indirectly addresses plate tectonics by showing the devastating effects of the movement of Earth's plates, providing a narrative that is both educational and profoundly emotional, highlighting the impact of geological forces on human lives.",
+					"qas": [
+						{
+							
+							"id": "025",
+							"is_impossible": false,
+							"question": "Which anime demonstrates Plate Tectonics??",
+							"answers": [
+								{
+									"text": "Tokyo Magnitude 8.0",
+									"answer_start": 11
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Genetic mutation refers to the permanent alteration of the nucleotide sequence in the genome of an organism, virus, or extrachromosomal DNA. These mutations can be the result of errors during DNA replication or as the effect of environmental factors. In anime, genetic mutations often serve as a basis for characters' unique powers or traits, allowing for the exploration of themes such as evolution, identity, and the ethics of genetic manipulation.",
+					"qas": [
+						{
+							
+							"id": "026",
+							"is_impossible": false,
+							"question": "What is genetic mutation?",
+							"answers": [
+								{
+									"text": "the permanent alteration of the nucleotide sequence in the genome of an organism, virus, or extrachromosomal DNA.",
+									"answer_start": 27
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'X-Men: Evolution', characters are mutants who have undergone genetic mutations, granting them extraordinary abilities. This series not only entertains but also prompts viewers to consider the implications of genetic diversity and mutation. It explores the concept of mutation as both a source of strength and a cause for societal division, reflecting on how genetic differences can affect individual and collective identities.",
+					"qas": [
+						{
+							
+							"id": "027",
+							"is_impossible": false,
+							"question": "How does 'X-Men: Evolution' explore genetic mutation?",
+							"answers": [
+								{
+									"text": "characters are mutants who have undergone genetic mutations, granting them extraordinary abilities.",
+									"answer_start": 23
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'X-Men: Evolution', characters are mutants who have undergone genetic mutations, granting them extraordinary abilities. This series not only entertains but also prompts viewers to consider the implications of genetic diversity and mutation. It explores the concept of mutation as both a source of strength and a cause for societal division, reflecting on how genetic differences can affect individual and collective identities.",
+					"qas": [
+						{
+							
+							"id": "028",
+							"is_impossible": false,
+							"question": "Which is an Ainme or cartoon where we can see genetic mutation?",
+							"answers": [
+								{
+									"text": "X-Men: Evolution",
+									"answer_start": 4
+								}
+							]
+						}
+					]
+				},
+				{
+                    "context": "Electromagnetism is a branch of physics involving the study of the electromagnetic force, a type of physical interaction that occurs between electrically charged particles. This force is responsible for practically all the phenomena encountered in daily life, excluding gravity. In anime, electromagnetism can be portrayed through characters who control electrical and magnetic forces, using them to navigate and influence their worlds in ways that highlight the science behind the concept.",
+                    "qas": [
+                        {
+                            
+                            "id": "029",
+                            "is_impossible": false,
+							"question": "What is electromagnetism?",
+                            "answers": [
+                                {
+                                    "text": "a branch of physics involving the study of the electromagnetic force, a type of physical interaction that occurs between electrically charged particles.",
+                                    "answer_start": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "The anime 'A Certain Scientific Railgun' explores the idea of electromagnetism through its protagonist, Misaka Mikoto, who has the ability to generate and manipulate electrical energy. This power is a direct application of electromagnetic principles, allowing her to create electric currents and magnetic fields to defeat enemies and protect her friends. Through Misaka's abilities, viewers are introduced to electromagnetism in an accessible and engaging manner.",
+                    "qas": [
+                        {
+                            
+                            "id": "030",
+                            "is_impossible": false,
+							"question": "How does 'A Certain Scientific Railgun' demonstrate electromagnetism?",
+                            "answers": [
+                                {
+                                    "text": "Misaka Mikoto, who has the ability to generate and manipulate electrical energy. This power is a direct application of electromagnetic principles, allowing her to create electric currents and magnetic fields to defeat enemies and protect her friends.",
+                                    "answer_start": 104
+                                }
+                            ]
+                        },
+                        {
+                            
+                            "id": "031",
+                            "is_impossible": false,
+							"question": "Name an Ainme or cartoon where we can the concept electromagnetisum?",
+                            "answers": [
+                                {
+                                    "text": "A Certain Scientific Railgun",
+                                    "answer_start": 11
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+					"context": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. This cycle involves the processes of evaporation, condensation, precipitation, infiltration, and runoff. In anime, the water cycle can be depicted in storylines that focus on environmental themes, showcasing the beauty and complexity of nature's way of recycling water.",
+					"qas": [
+						{
+							
+							"id": "032",
+							"is_impossible": false,
+							"question": "What is the water cycle?",
+							"answers": [
+								{
+									"text": "the continuous movement of water on, above, and below the surface of the Earth.",
+									"answer_start": 63
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Ponyo on the Cliff by the Sea', the relationship between humans and the sea is central, reflecting on the water cycle through the story of a young boy and a fish-girl who dreams of becoming human. The film uses magical realism to explore themes of environmentalism and the interconnectedness of the terrestrial and aquatic elements of the water cycle, illustrating the cycle's importance in sustaining life.",
+					"qas": [
+						{
+							"id": "033",
+							"is_impossible": false,
+							"question": "How does 'Ponyo on the Cliff by the Sea' relate to the water cycle?",
+							"answers": [
+								{
+									"text": "reflecting on the water cycle through the story of a young boy and a fish-girl who dreams of becoming human. The film uses magical realism to explore",
+									"answer_start": 92
+								}
+							]
+						}
+					]
+				},
+
+				{
+					"context": "Newton's Laws of Motion describe the relationship between the motion of an object and the forces acting upon it. The first law, known as the law of inertia, states that an object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force. The second law provides a quantitative description of the force needed to cause a certain change in motion. The third law states that for every action, there is an equal and opposite reaction. These laws are fundamental to understanding physics and are often illustrated in anime through action-packed scenes and intricate plot devices.",
+					"qas": [
+						{
+							
+							"id": "034",
+							"is_impossible": false,
+							"question": "What are Newton's Laws of Motion?",
+							"answers": [
+								{
+									"text": "describe the relationship between the motion of an object and the forces acting upon it.",
+									"answer_start": 24
+								} 
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Attack on Titan', characters utilize three-dimensional maneuver gear to navigate through the air, engaging in combat with Titans. This gear illustrates Newton's Third Law of Motion, as the propulsion forces generated to move the user in one direction result in an equal and opposite reaction force, demonstrating how motion and forces interact in a dynamic and visually stunning way.",
+					"qas": [
+						{
+							
+							"id": "035",
+							"is_impossible": false,
+							"question": "How does 'Attack on Titan' illustrate Newton's Third Law of Motion?",
+							"answers": [
+								{
+									"text": "In 'Attack on Titan', characters utilize three-dimensional maneuver gear to navigate through the air, engaging in combat with Titans.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Biodiversity refers to the variety and variability of life on Earth, encompassing the diversity within species, between species, and of ecosystems. It is a key concept in ecology and conservation, indicating the health and resilience of biological systems. Anime often explores themes of biodiversity through stories set in rich and varied ecosystems, highlighting the interdependence of species and the importance of conservation efforts.",
+					"qas": [
+						{
+							
+							"id": "036",
+							"is_impossible": false,
+							"question": "What is biodiversity?",
+							"answers": [
+								{
+									"text": "the variety and variability of life on Earth, encompassing the diversity within species, between species, and of ecosystems.",
+									"answer_start": 23
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "The anime 'Mushishi' presents a unique take on biodiversity by introducing the concept of 'Mushi', primitive creatures that exist in various forms and have supernatural abilities. The series showcases the complexity of life forms and their ecosystems, emphasizing the delicate balance of nature and the unseen connections between different forms of life, thereby reflecting on the broader theme of biodiversity and its significance.",
+					"qas": [
+						{
+							
+							"id": "037",
+							"is_impossible": false,
+							"question": "How does 'Mushishi' reflect on biodiversity?",
+							"answers": [
+								{
+									"text": "The anime 'Mushishi' presents a unique take on biodiversity by introducing the concept of 'Mushi', primitive creatures that exist in various forms and have supernatural abilities. The series showcases the complexity of life forms and their ecosystems, emphasizing the delicate balance of nature and the unseen connections between different forms of life, thereby reflecting on the broader theme of biodiversity and its significance.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+                    "context": "Chemical reactions involve the transformation of substances through the breaking and forming of chemical bonds, leading to the production of new substances. These processes are fundamental to life and the physical world, enabling everything from cellular respiration to the combustion of fuels. In anime, chemical reactions can be dramatically visualized to enhance storytelling, such as depicting alchemical transmutations or the explosive results of combining different mystical substances.",
+                    "qas": [
+                        {
+                            
+                            "id": "038",
+                            "is_impossible": false,
+							"question": "What are chemical reactions?",
+                            "answers": [
+                                {
+                                    "text": "the transformation of substances through the breaking and forming of chemical bonds, leading to the production of new substances.",
+                                    "answer_start": 27
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+					"context": "In 'Fullmetal Alchemist', the use of alchemy is essentially the anime's interpretation of chemical reactions, where characters can transform materials into completely different substances. This process is governed by the fictional law of Equivalent Exchange, which requires the sacrifice of something of equal value to obtain the desired product. Through these alchemical 'reactions', the series explores themes of sacrifice, value, and the cost of altering the natural order.",
+					"qas": [
+						{
+							"id": "039",
+							"is_impossible": false,
+							"question": "How does 'Fullmetal Alchemist' portray chemical reactions?",
+							"answers": [
+								{
+									"text": "the use of alchemy is essentially the anime's interpretation of chemical reactions, where characters can transform materials into completely different substances. This process is governed by the fictional law of Equivalent Exchange, which requires the sacrifice of something of equal value to obtain the desired product.",
+									"answer_start": 26
+								}
+							]
+						}
+					]
+				},
+		
+				{
+                    "context": "Renewable energy encompasses energy sources that are replenished naturally on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat. These sustainable energy sources are crucial for reducing greenhouse gas emissions and combating climate change. In anime, renewable energy themes might be woven into stories to highlight the importance of sustainability and the innovative ways societies can harness these clean energy sources.",
+                    "qas": [
+                        {
+                            
+                            "id": "040",
+                            "is_impossible": false,
+							"question": "What is Renewable Energy?",
+                            "answers": [
+                                {
+                                    "text": "energy sources that are replenished naturally on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat.",
+                                    "answer_start": 29
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "The anime 'Nausica  of the Valley of the Wind' portrays a post-apocalyptic world where humans are striving to live sustainably with nature. The use of windmills to harness wind energy in the Valley of the Wind exemplifies the use of renewable energy in rebuilding society. Through its storytelling, 'Nausica\u00e4' promotes an environmental message, stressing the importance of harmony between human civilization and the natural world, and the role of renewable energy in achieving this balance.",
+                    "qas": [
+                        {
+                            
+                            "id": "041",
+                            "is_impossible": false,
+							"question": "How does 'Nausica  of the Valley of the Wind' incorporate renewable energy?",
+                            "answers": [
+                                {
+                                    "text": "The use of windmills to harness wind energy in the Valley of the Wind exemplifies the use of renewable energy in rebuilding society.",
+                                    "answer_start": 140
+                                }
+                            ]
+                        }
+                    ]
+                },
+		
+		
+				{
+					"context": "The theory of relativity, developed by Albert Einstein, revolutionized our understanding of space, time, and gravity. It consists of two parts: special relativity, which provides a new framework for all of physics and suggests that space and time should be considered together as spacetime; and general relativity, which proposes that gravity is not a force between masses but rather an effect of the curvature of spacetime caused by mass. In anime, the theory of relativity can be explored in stories involving time travel, alternate dimensions, or complex scientific phenomena, offering viewers a glimpse into the profound implications of Einstein's discoveries.",
+					"qas": [
+						{
+							
+							"id": "042",
+							"is_impossible": false,
+							"question": "What is the theory of relativity?",
+							"answers": [
+								{
+									"text": "developed by Albert Einstein, revolutionized our understanding of space, time, and gravity.",
+									"answer_start": 26
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Steins;Gate', the theory of relativity is a central theme, with the characters engaging in time travel experiments that bend the conventional understanding of time and causality. By using a device that sends messages back in time, the narrative delves into the complexities of cause and effect, paralleling the implications of special relativity and its impact on the perception of time. This anime serves as a creative medium to ponder the intriguing and sometimes perplexing concepts of relativity.",
+					"qas": [
+						{
+							
+							"id": "043",
+							"is_impossible": false,
+							"question": "How does 'Steins;Gate' explore the theory of relativity?",
+							"answers": [
+								{
+									"text": "with the characters engaging in time travel experiments that bend the conventional understanding of time and causality.",
+									"answer_start": 63
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Black holes are regions of spacetime where gravity is so strong that nothing, not even light, can escape from them. They are predicted by the theory of general relativity and are characterized by the 'event horizon', a boundary beyond which information is lost to the outside universe. In anime, black holes are often portrayed as powerful forces or gateways to other dimensions, offering a blend of scientific intrigue and imaginative storytelling that can spark interest in astrophysics.",
+					"qas": [
+						{
+							
+							"id": "044",
+							"is_impossible": false,
+							"question": "What are black holes?",
+							"answers": [
+								{
+									"text": "regions of spacetime where gravity is so strong that nothing, not even light, can escape from them.",
+									"answer_start": 16
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Noein: to your other self', the concept of black holes is intertwined with the story through the use of quantum physics and parallel universes. Characters travel between different realities, and black holes are depicted as gateways that facilitate this interdimensional travel. This portrayal not only captivates the audience with its visual representation but also encourages a deeper curiosity about the mysteries of the universe and the science of black holes.",
+					"qas": [
+						{
+							"id": "045",
+							"is_impossible": false,
+							"question": "How does 'Noein: to your other self' incorporate black holes into its narrative?",
+							"answers": [
+								{
+									"text": "black holes are depicted as gateways that facilitate this interdimensional travel.",
+									"answer_start": 199
+								}
+							]
+						}
+					]
+				},
+
+				{
+                    "context": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. The concept of AI raises questions about consciousness, ethics, and the future of human-machine interaction. Anime often explores these themes through stories of AI characters striving for self-awareness, or societies grappling with the implications of AI advancements, providing a rich narrative ground for exploring the potentials and challenges of artificial intelligence.",
+                    "qas": [
+                        {
+                            
+                            "id": "046",
+                            "is_impossible": false,
+							"question": "What is Artificial Intelligence?",
+                            "answers": [
+                                {
+                                    "text": "the simulation of human intelligence in machines that are programmed to think and learn like humans.",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "In 'Ghost in the Shell', AI plays a central role in a future where cybernetic enhancements and AI entities are commonplace. The series delves into the philosophical and ethical implications of AI, especially in terms of identity, consciousness, and the rights of artificial beings. Through its narrative, 'Ghost in the Shell' encourages viewers to ponder the complex relationship between humans and artificial intelligence, and what it means to be truly 'alive'.",
+                    "qas": [
+                        {
+                            
+                            "id": "047",
+                            "is_impossible": false,
+							"question": "Which anime explore artificial intelligence?",
+                            "answers": [
+                                {
+                                    "text": "In 'Ghost in the Shell', AI plays a central role in a future where cybernetic enhancements and AI entities are commonplace. The series delves into the philosophical and ethical implications of AI, especially in terms of identity, consciousness, and the rights of artificial beings.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "Ethics in science and technology encompasses the moral principles and considerations involved in the development and application of scientific discoveries and technological innovations. This field addresses questions about the responsibilities of scientists and engineers, the impact of technology on society, and the ethical use of information and resources. Anime frequently engages with these themes, presenting stories that challenge characters to navigate the complexities of ethical dilemmas in scientific advancement and technological use, reflecting on the broader implications for society.",
+                    "qas": [
+                        {
+                            
+                            "id": "048",
+                            "is_impossible": false,
+							"question": "What are ethics in science and technology?",
+                            "answers": [
+                                {
+                                    "text": "Ethics in science and technology encompasses the moral principles and considerations involved in the development and application of scientific discoveries and technological innovations.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "context": "In 'Psycho-Pass', the society is governed by the Sibyl System, an advanced AI that assesses the mental state of citizens to predict and prevent crimes. The series explores the ethical implications of such technology, questioning the limits of privacy, freedom, and the morality of a system that judges and controls people based on potential future actions. 'Psycho-Pass' delves deep into the ethical challenges posed by the integration of technology into societal governance, sparking discussion on the balance between security and personal freedoms.",
+                    "qas": [
+                        {
+                            
+                            "id": "049",
+                            "is_impossible": false,
+							"question": "How does 'Psycho-Pass' address ethics in science and technology?",
+                            "answers": [
+                                {
+                                    "text": "The series explores the ethical implications of such technology, questioning the limits of privacy, freedom, and the morality of a system that judges and controls people based on potential future actions.",
+                                    "answer_start": 152
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+					"context": "In 'Attack on Titan' (AoT), the themes of ethics and morality are deeply woven into its narrative, exploring the consequences of war, the nature of humanity, and the difficult decisions that come with survival. The series challenges characters and viewers alike to consider the cost of freedom, the value of life, and the complexities of moral righteousness in the face of existential threats. Through its gripping storyline, AoT presents a stark examination of the ethical dilemmas faced by humanity when pushed to the brink of extinction.",
+					"qas": [
+						{
+							
+							"id": "050",
+							"is_impossible": false,
+							"question": "What ethical themes are explored in 'Attack on Titan'?",
+							"answers": [
+								{
+									"text": "the consequences of war, the nature of humanity, and the difficult decisions that come with survival.",
+									"answer_start": 109
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "The conflict between the Eldians and Marleyans in 'Attack on Titan' serves as a backdrop for discussions on discrimination, oppression, and the cycle of hatred. Characters are frequently faced with moral quandaries that challenge their beliefs and the justifications for their actions. This aspect of the series prompts viewers to reflect on the ethical implications of revenge, justice, and the potential for understanding and empathy between opposing sides, highlighting the complex interplay of ethics in situations of conflict and power dynamics.",
+					"qas": [
+						{
+							"id": "051",
+							"is_impossible": false,
+							"question": "How does 'Attack on Titan' delve into ethics through its conflict between Eldians and Marleyans?",
+							"answers": [
+								{
+									"text": "serves as a backdrop for discussions on discrimination, oppression, and the cycle of hatred. Characters are frequently faced with moral quandaries that challenge their beliefs and the justifications for their actions.",
+									"answer_start": 65
+								}
+							]
+						}
+					]
+				},
+
+				{
+					"context": "The principle of the conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another. This fundamental concept of physics underpins much of our understanding of the physical world and the universe. In anime, this principle can be illustrated through characters who manipulate energy, engage in epic battles that showcase the transformation of energy, or in plots that revolve around the search for renewable energy sources or the consequences of depleting natural resources.",
+					"qas": [
+						{
+							
+							"id": "052",
+							"is_impossible": false,
+							"question": "What is the principle of the conservation of energy?",
+							"answers": [
+								{
+									"text": "energy cannot be created or destroyed, only transformed from one form to another.",
+									"answer_start": 56
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Dragon Ball', the concept of Ki, a form of life force energy that characters train to control and harness, exemplifies the conservation of energy. Characters gather, store, and release energy in the form of powerful attacks or defenses. These depictions serve as exaggerated but effective illustrations of energy transformation, engaging the audience in the spectacle while subtly educating them on the underlying principle of energy conservation.",
+					"qas": [
+						{
+							
+							"id": "053",
+							"is_impossible": false,
+							"question": "How does 'Dragon Ball' illustrate the principle of energy conservation?",
+							"answers": [
+								{
+									"text": "Ki, a form of life force energy that characters train to control and harness, exemplifies the conservation of energy.",
+									"answer_start": 33
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Organic chemistry is the branch of chemistry that studies the structure, properties, composition, reactions, and synthesis of organic compounds, which contain carbon in covalent bonding. The study of organic molecules is central to understanding biological processes and synthetic applications, making it a key subject in both the science and industrial fields. In anime, organic chemistry can be introduced through stories involving bioengineering, the creation of new materials, or magical potions, providing a backdrop for exploring complex chemical reactions and the marvels of carbon-based life.",
+					"qas": [
+						{
+							
+							"id": "054",
+							"is_impossible": false,
+							"question": "What is organic chemistry?",
+							"answers": [
+								{
+									"text": "the branch of chemistry that studies the structure, properties, composition, reactions, and synthesis of organic compounds, which contain carbon in covalent bonding.",
+									"answer_start": 21
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Fullmetal Alchemist', the concept of alchemy, although fictional, shares similarities with organic chemistry through its emphasis on the transformation and manipulation of matter. The alchemists' ability to transmute one substance into another mirrors the principles of chemical reactions and synthesis in organic chemistry, albeit with a fantastical twist. This connection makes 'Fullmetal Alchemist' a unique vehicle for introducing viewers to the wonders and complexities of organic compounds and their transformations.",
+					"qas": [
+						{
+							
+							"id": "055",
+							"is_impossible": false,
+							"question": "How does 'Fullmetal Alchemist' relate to organic chemistry?",
+							"answers": [
+								{
+									"text": "the concept of alchemy, although fictional, shares similarities with organic chemistry through its emphasis on the transformation and manipulation of matter.",
+									"answer_start": 26
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Chemical bonding refers to the force that holds atoms together in molecules and compounds, forming the basis for the structure and properties of matter. This fundamental concept in chemistry explains how atoms combine to form a wide variety of chemical substances with different characteristics. In anime, chemical bonding can be metaphorically represented through relationships between characters, or more literally in plots involving scientific research, alchemy, or the creation of new materials, offering viewers insights into the building blocks of the material world.",
+					"qas": [
+						{
+							
+							"id": "057",
+							"is_impossible": false,
+							"question": "What is chemical bonding?",
+							"answers": [
+								{
+									"text": "the force that holds atoms together in molecules and compounds, forming the basis for the structure and properties of matter.",
+									"answer_start": 27
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Dr. Stone', the protagonist, Senku, uses his extensive scientific knowledge to rebuild civilization using chemistry and physics. The series showcases various chemical reactions and bonding processes as Senku creates materials from scratch, emphasizing the importance and application of chemical bonds in technology and daily life. This not only educates the audience on chemical principles but also demonstrates the practical value of understanding how substances interact at the molecular level.",
+					"qas": [
+						{
+							
+							"id": "058",
+							"is_impossible": false,
+							"question": "How does 'Dr. Stone' illustrate chemical bonding?",
+							"answers": [
+								{
+									"text": "The series showcases various chemical reactions and bonding processes as Senku creates materials from scratch, emphasizing the importance and application of chemical bonds in technology and daily life.",
+									"answer_start": 133
+								}
+							]
+						}
+					]
+				},
+
+				{
+					"context": "Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It introduces concepts such as wave-particle duality, quantization of energy, and the uncertainty principle, challenging our classical understanding of the physical world. In anime, quantum mechanics is often explored in stories involving alternate dimensions, time travel, or supernatural abilities, offering a narrative framework to delve into the mysteries of the quantum world and its implications for reality and human perception.",
+					"qas": [
+						{
+							
+							"id": "059",
+							"is_impossible": false,
+							"question": "What is quantum mechanics?",
+							"answers": [
+								{
+									"text": "a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.",
+									"answer_start": 21
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Steins;Gate', the concept of quantum mechanics is central to the plot, as it deals with the possibility of time travel through the manipulation of micro black holes, highlighting theories such as the many-worlds interpretation. This series skillfully blends scientific theories with compelling narrative elements, making complex quantum mechanics concepts accessible and intriguing to viewers. Through its story, 'Steins;Gate' inspires a fascination with quantum physics and its potential to unlock the secrets of the universe.",
+					"qas": [
+						{
+							
+							"id": "060",
+							"is_impossible": false,
+							"question": "How does 'Steins;Gate' incorporate quantum mechanics?",
+							"answers": [
+								{
+									"text": "deals with the possibility of time travel through the manipulation of micro black holes, highlighting theories such as the many-worlds interpretation.",
+									"answer_start": 81
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Electrolysis is a chemical decomposition process induced by passing an electric current through a liquid or solution containing ions. It is widely used in various industrial processes, such as the extraction of metals from ores and the production of hydrogen from water. In anime, electrolysis could be depicted in storylines that involve futuristic technology or scientific experiments, serving as a foundation for exploring themes of sustainability, innovation, and the manipulation of elemental materials.",
+					"qas": [
+						{
+							
+							"id": "061",
+							"is_impossible": false,
+							"question": "What is electrolysis?",
+							"answers": [
+								{
+									"text": "Electrolysis is a chemical decomposition process induced by passing an electric current through a liquid or solution containing ions.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Dr. Stone', the process of electrolysis is utilized by the characters as part of their scientific endeavors to rebuild civilization from scratch. For instance, in the anime 'Dr. Stone' they use electrolysis to separate oxygen and hydrogen from water, which is a critical step in their quest to create scientific compounds and support technological advancements. This not only introduces the audience to the practical applications of electrolysis but also highlights the importance of chemistry in innovation and survival.",
+					"qas": [
+						{
+							
+							"id": "062",
+							"is_impossible": false,
+							"question": "Which anime demostartes the process of electrolysis?",
+							"answers": [
+								{
+									"text": "in the anime 'Dr. Stone' they use electrolysis to separate oxygen and hydrogen from water, which is a critical step in their quest to create scientific compounds and support technological advancements.",
+									"answer_start": 164
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Acids, bases, and salts are fundamental categories of compounds in chemistry that have distinct properties and reactions. Acids are substances that release hydrogen ions (H+) in solution, bases release hydroxide ions (OH-), and salts are formed from the neutralization reaction between an acid and a base. These concepts are essential for understanding chemical reactions, pH balance, and many biological processes. In anime, these chemical principles can be woven into stories involving cooking, magic potions, or scientific experiments, offering an entertaining way to introduce viewers to the chemistry of acids, bases, and salts.",
+					"qas": [
+						{
+							
+							"id": "063",
+							"is_impossible": false,
+							"question": "What are acids, bases, and salts?",
+							"answers": [
+								{
+									"text": "Acids are substances that release hydrogen ions (H+) in solution, bases release hydroxide ions (OH-), and salts are formed from the neutralization reaction between an acid and a base. These concepts are essential for understanding chemical reactions, pH balance, and many biological processes.",
+									"answer_start": 122
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Food Wars!: Shokugeki no Soma', the culinary battles often highlight the use of acids and bases in cooking to enhance flavors or transform ingredients. For example, the use of vinegar (an acid) to balance the sweetness of a dish or baking soda (a base) in dough to make it rise. While not explicitly focused on the creation of salts, the show demonstrates the practical application of these chemical principles in everyday life, making the science of cooking accessible and exciting.",
+					"qas": [
+						{
+							
+							"id": "064",
+							"is_impossible": false,
+							"question": "Which anime illustrate the chemistry of acids and bases?",
+							"answers": [
+								{
+									"text": "In 'Food Wars!: Shokugeki no Soma', the culinary battles often highlight the use of acids and bases in cooking to enhance flavors or transform ingredients. For example, the use of vinegar (an acid) to balance the sweetness of a dish or baking soda (a base) in dough to make it rise.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Converging lenses are a fundamental optical component in physics that are used to focus light rays to a single point. They have applications in various devices such as cameras, telescopes, and microscopes. Converging lenses are thicker at the center than at the edges and can produce both real and virtual images depending on the object's position relative to the lens and the focal length. In anime narratives, the concept of converging lenses can be portrayed in scenarios involving characters using telescopes to observe distant objects, cameras to capture memorable moments, or magnifying glasses to examine intricate details.",
+					"qas": [
+						{
+							
+							"id": "065",
+							"is_impossible": false,
+							"question": "What are converging lenses?",
+							"answers": [
+								{
+									"text": "a fundamental optical component in physics that are used to focus light rays to a single point.",
+									"answer_start": 22
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Steins;Gate', the character Rintarou Okabe often uses a telescope to observe celestial phenomena, demonstrating the principle of converging lenses. Additionally, in 'Your Lie in April', the protagonist Kousei Arima captures poignant moments with his camera, showcasing how converging lenses are utilized in photography to create images with depth and clarity. Through these narrative elements, viewers can grasp the significance and functionality of converging lenses in various contexts, enriching their understanding of optics and technology.",
+					"qas": [
+						{
+							
+							"id": "066",
+							"is_impossible": false,
+							"question": "How are converging lenses depicted in 'Steins;Gate' and 'Your Lie in April'?",
+							"answers": [
+								{
+									"text": "In 'Steins;Gate', the character Rintarou Okabe often uses a telescope to observe celestial phenomena, demonstrating the principle of converging lenses. Additionally, in 'Your Lie in April', the protagonist Kousei Arima captures poignant moments with his camera, showcasing how converging lenses are utilized in photography to create images with depth and clarity.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+
+				{
+					"context": "Vibrations are a common phenomenon in physics characterized by periodic back-and-forth motions of objects or particles. These oscillations occur in various forms, such as mechanical vibrations in machinery, acoustic vibrations in sound waves, and electromagnetic vibrations in light waves. Understanding vibrations is crucial in fields like engineering, music, and telecommunications. In anime narratives, vibrations can be depicted in scenes involving musical performances, mechanical devices in action, or even supernatural powers like energy waves or force fields. By incorporating vibrations into storytelling, anime offers an engaging way to explore the physics behind this fundamental concept.",
+					"qas": [
+						{
+							
+							"id": "067",
+							"is_impossible": false,
+							"question": "What are vibrations?",
+							"answers": [
+								{
+									"text": "a common phenomenon in physics characterized by periodic back-and-forth motions of objects or particles.",
+									"answer_start": 15
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'K-On!', the characters form a school band and engage in lively musical performances, showcasing vibrations in the form of sound waves produced by musical instruments. Similarly, in 'Fullmetal Alchemist: Brotherhood', the intricate machinery and alchemical transmutations often involve mechanical vibrations, demonstrating the application of physics principles in fictional worlds. Furthermore, in 'Dragon Ball Z', characters emit powerful energy blasts and shockwaves during intense battles, illustrating vibrations as a manifestation of supernatural abilities. Through these diverse narratives, viewers can appreciate the significance of vibrations in both natural and fantastical contexts.",
+					"qas": [
+						{
+							
+							"id": "068",
+							"is_impossible": false,
+							"question": "How are vibrations portrayed in 'Fullmetal Alchemist: Brotherhood', and 'Dragon Ball Z'?",
+							"answers": [
+								{
+									"text": "in 'Fullmetal Alchemist: Brotherhood', the intricate machinery and alchemical transmutations often involve mechanical vibrations, demonstrating the application of physics principles in fictional worlds. Furthermore, in 'Dragon Ball Z', characters emit powerful energy blasts and shockwaves during intense battles, illustrating vibrations as a manifestation of supernatural abilities.",
+									"answer_start": 182
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Electromagnetic induction is a fundamental principle in physics whereby a changing magnetic field induces an electromotive force (EMF) in a conductor, resulting in the generation of an electric current. This phenomenon has wide-ranging applications in technology, including the operation of generators, transformers, and various electrical devices. Understanding electromagnetic induction is crucial in fields such as electrical engineering, power generation, and telecommunications. In anime narratives, electromagnetic induction can be showcased in scenarios involving power generation from renewable sources, the operation of futuristic machinery, or the activation of magical artifacts through mystical energy fields. By incorporating electromagnetic induction into storytelling, anime offers an imaginative exploration of this fundamental physics concept.",
+					"qas": [
+						{
+							
+							"id": "069",
+							"is_impossible": false,
+							"question": "What is electromagnetic induction?",
+							"answers": [
+								{
+									"text": "a fundamental principle in physics whereby a changing magnetic field induces an electromotive force (EMF) in a conductor, resulting in the generation of an electric current.",
+									"answer_start": 29
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Attack on Titan', the walled city of Paradis is depicted as utilizing wind turbines to generate electricity, demonstrating the application of electromagnetic induction in renewable energy generation. Similarly, in 'Neon Genesis Evangelion', the giant robots known as Evangelions are powered by advanced batteries or 'S² Engines', hinting at the use of electromagnetic induction in futuristic technology. Additionally, in 'Fairy Tail', magical characters often activate enchanted objects or artifacts through mysterious energy fields, which could be interpreted as a form of electromagnetic induction in a mystical context. Through these diverse narratives, viewers can gain a deeper appreciation for the practical and fantastical applications of electromagnetic induction.",
+					"qas": [
+						{
+							
+							"id": "070",
+							"is_impossible": false,
+							"question": "How is electromagnetic induction depicted in Animes?",
+							"answers": [
+								{
+									"text": "In 'Attack on Titan', the walled city of Paradis is depicted as utilizing wind turbines to generate electricity, demonstrating the application of electromagnetic induction in renewable energy generation. Similarly, in 'Neon Genesis Evangelion', the giant robots known as Evangelions are powered by advanced batteries or 'S² Engines', hinting at the use of electromagnetic induction in futuristic technology.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Transformers are essential devices in electrical engineering that facilitate the transfer of electrical energy between circuits through electromagnetic induction. They consist of two or more coils of wire wrapped around a core, typically made of iron or ferrite. By varying the number of turns in each coil, transformers can step up or step down voltage levels, making them crucial components in power distribution, voltage regulation, and electrical isolation. Understanding transformers is vital in fields such as power transmission, electronics, and telecommunications. In anime narratives, transformers can be depicted in various contexts, such as power substations, high-tech gadgets, or futuristic robots. By incorporating transformers into storytelling, anime offers a creative exploration of electrical engineering principles and their applications.",
+					"qas": [
+						{
+							
+							"id": "071",
+							"is_impossible": false,
+							"question": "What are transformers?",
+							"answers": [
+								{
+									"text": "essential devices in electrical engineering that facilitate the transfer of electrical energy between circuits through electromagnetic induction.",
+									"answer_start": 17
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Ghost in the Shell: Stand Alone Complex', the urban infrastructure prominently features transformers in its power substations, highlighting their importance in a technologically advanced society. 'My Hero Academia' features the ingenious Mei Hatsume, who develops devices likely incorporating transformers for efficient power management. The show 'Transformers' creatively represents transformers as sentient robots capable of changing forms, subtly echoing their real-world functionality of altering electrical energy levels.",
+					"qas": [
+						{
+							"id": "072",
+							"is_impossible": false,
+							"question": "How is the concept of electrical transformers explored in 'Ghost in the Shell: Stand Alone Complex', 'My Hero Academia', and 'Transformers'?",
+							"answers": [
+								{
+									"text": "The show 'Transformers' creatively represents transformers as sentient robots capable of changing forms, subtly echoing their real-world functionality of altering electrical energy levels.",
+									"answer_start": 342
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Nuclear fission is a process in nuclear physics where the nucleus of an atom splits into smaller nuclei, releasing a large amount of energy. This phenomenon is the basis for nuclear power generation and nuclear weapons. Understanding nuclear fission is crucial in fields such as energy production, nuclear engineering, and global security. In anime narratives, nuclear fission can be depicted in various contexts, such as advanced technology, apocalyptic scenarios, or superhuman abilities. By incorporating nuclear fission into storytelling, anime offers a speculative exploration of the scientific and ethical implications of harnessing atomic energy.",
+					"qas": [
+						{
+							
+							"id": "073",
+							"is_impossible": false,
+							"question": "What is nuclear fission?",
+							"answers": [
+								{
+									"text": "a process in nuclear physics where the nucleus of an atom splits into smaller nuclei, releasing a large amount of energy.",
+									"answer_start": 19
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Akira', the titular character gains immense psychic powers after exposure to an experimental energy source. In 'Akira' nuclear fission could be interpreted as a metaphorical representation of nuclear fission's transformative and destructive potential. Similarly, in 'Nausicaä of the Valley of the Wind', the post-apocalyptic world is littered with remnants of advanced technology, including nuclear-powered weapons, highlighting the catastrophic consequences of nuclear fission gone awry. Additionally, in 'Neon Genesis Evangelion', the fictional organization NERV harnesses the power of 'Eva' units, which may involve elements of nuclear fission in their energy sources. Through these narrative explorations, viewers are prompted to contemplate the risks and benefits of nuclear technology in both real and fictional contexts.",
+					"qas": [
+						{
+							
+							"id": "074",
+							"is_impossible": false,
+							"question": "How is nuclear fission depicted in Anime",
+							"answers": [
+								{
+									"text": "In 'Akira', the titular character gains immense psychic powers after exposure to an experimental energy source. In 'Akira' nuclear fission could be interpreted as a metaphorical representation of nuclear fission's transformative and destructive potential.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Nuclear fusion is a process in which two atomic nuclei combine to form a heavier nucleus, releasing a significant amount of energy. This phenomenon is the process that powers stars and has the potential to provide clean and abundant energy on Earth. Understanding nuclear fusion is crucial in fields such as astrophysics, energy production, and plasma physics. In anime narratives, nuclear fusion can be depicted in various contexts, such as futuristic energy sources, interstellar travel, or superhuman abilities. By incorporating nuclear fusion into storytelling, anime offers a speculative exploration of the scientific and societal implications of mastering fusion technology.",
+					"qas": [
+						{
+							
+							"id": "075",
+							"is_impossible": false,
+							"question": "What is nuclear fusion?",
+							"answers": [
+								{
+									"text": "a process in which two atomic nuclei combine to form a heavier nucleus, releasing a significant amount of energy.",
+									"answer_start": 18
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Dragon Ball Z', characters like Goku and Vegeta harness powerful energy blasts and transformations, which could be interpreted as a form of controlled nuclear fusion within their bodies. This portrayal invites viewers to contemplate the potential of nuclear fusion as a transformative energy source in both real-world and fictional settings.",
+					"qas": [
+						{
+							"id": "076",
+							"is_impossible": false,
+							"question": "How is nuclear fusion depicted in 'Dragon Ball Z'?",
+							"answers": [
+								{
+									"text": "which could be interpreted as a form of controlled nuclear fusion within their bodies",
+									"answer_start": 104
+								}
+							]
+						}
+					]
+				},
+
+
+				{
+					"context": "Radioactivity is a natural phenomenon in which unstable atomic nuclei decay, emitting radiation in the form of particles or electromagnetic waves. This process is the basis of nuclear physics and has significant implications for medicine, energy production, and environmental science. Understanding radioactivity is crucial for assessing radiation hazards, developing nuclear technologies, and studying the universe's composition. In anime narratives, radioactivity can be depicted in various contexts, such as post-apocalyptic landscapes, scientific experiments gone awry, or superhuman abilities. By incorporating radioactivity into storytelling, anime offers a speculative exploration of the scientific, ethical, and existential implications of nuclear phenomena.",
+					"qas": [
+						{
+							
+							"id": "077",
+							"is_impossible": false,
+							"question": "What is radioactivity?",
+							"answers": [
+								{
+									"text": "a natural phenomenon in which unstable atomic nuclei decay, emitting radiation in the form of particles or electromagnetic waves.",
+									"answer_start": 17
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Akira', the character Tetsuo gains uncontrollable psychic powers after exposure to a mysterious energy source, reminiscent of radioactive mutations. Similarly, in 'Tokyo Ghoul', individuals known as ghouls possess supernatural abilities and require human flesh for sustenance, drawing parallels to the concept of radioactive transformations. Additionally, in 'Nausicaä of the Valley of the Wind', the toxic jungle emits deadly spores due to ancient wars and technological disasters, symbolizing the destructive legacy of radioactive contamination. Through these narrative explorations, viewers are prompted to contemplate the risks and consequences of radioactivity in both real-world and fictional contexts.",
+					"qas": [
+						{
+							
+							"id": "078",
+							"is_impossible": false,
+							"question": "How is radioactivity depicted in 'Akira', 'Tokyo Ghoul', and 'Nausicaä of the Valley of the Wind'?",
+							"answers": [
+								{
+									"text": "the character Tetsuo gains uncontrollable psychic powers after exposure to a mysterious energy source, reminiscent of radioactive mutations. Similarly, in 'Tokyo Ghoul', individuals known as ghouls possess supernatural abilities and require human flesh for sustenance, drawing parallels to the concept of radioactive transformations. Additionally, in 'Nausicaä of the Valley of the Wind', the toxic jungle emits deadly spores due to ancient wars and technological disasters, symbolizing the destructive legacy of radioactive contamination.",
+									"answer_start": 12
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Prisms are optical elements that can refract, reflect, and disperse light, causing it to separate into its component colors. They are commonly used in various optical devices such as cameras, binoculars, and spectrometers. Understanding the properties of prisms is crucial in fields like physics, astronomy, and photography. In anime narratives, prisms can be depicted in scenes involving magical spells, illusions, or scientific experiments. By incorporating prisms into storytelling, anime offers an imaginative exploration of light manipulation and its mystical or practical implications.",
+					"qas": [
+						{
+							
+							"id": "079",
+							"is_impossible": false,
+							"question": "What are prisms?",
+							"answers": [
+								{
+									"text": "optical elements that can refract, reflect, and disperse light, causing it to separate into its component colors.",
+									"answer_start": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Cardcaptor Sakura', the protagonist Sakura utilizes magical cards that often create colorful and dazzling effects, reminiscent of light manipulation through prisms. Similarly, in 'Spirited Away', the bathhouse scenes feature surreal and captivating visuals, possibly inspired by the refraction and dispersion of light as seen through prisms. Additionally, in 'Steins;Gate', the character Kurisu conducts scientific experiments involving light and visual perception, which could involve the use of prisms for optical analysis. Through these narrative elements, viewers are introduced to the fascinating properties of prisms in both mystical and scientific contexts.",
+					"qas": [
+						{
+							
+							"id": "080",
+							"is_impossible": false,
+							"question": "How are prisms depicted in the anime 'Spirited Away'?",
+							"answers": [
+								{
+									"text": "in 'Spirited Away', the bathhouse scenes feature surreal and captivating visuals, possibly inspired by the refraction and dispersion of light as seen through prisms.",
+									"answer_start": 180
+								}
+							]
+						}
+					]
+				},
+				{
+                    "context": "Biomechanics is the study of the mechanics of living organisms, including humans, animals, and plants. It involves understanding how biological structures and systems function, adapt, and interact with their environment. Biomechanics plays a crucial role in fields such as sports science, rehabilitation, and prosthetics. In anime narratives, biomechanics can be depicted in various contexts, such as martial arts battles, athletic competitions, or the movements of supernatural beings. By incorporating biomechanics into storytelling, anime offers a creative exploration of the physical capabilities and limitations of living organisms.",
+                    "qas": [
+                        {
+                            "id": "081",
+                            "is_impossible": false,
+							"question": "What is biomechanics?",
+                            "answers": [
+                                {
+                                    "text": "the study of the mechanics of living organisms, including humans, animals, and plants.",
+                                    "answer_start": 16
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+					"context": "In 'Naruto', characters like Naruto and Sasuke engage in intense martial arts battles, showcasing various biomechanical principles such as agility, strength, and balance. Similarly, in 'Haikyuu!!', the characters participate in volleyball matches that highlight biomechanical aspects of jumping, serving, and spiking. Additionally, in 'Attack on Titan', the movements of the Titans and the 3D Maneuver Gear used by the Scouts involve biomechanical concepts of motion and force. Through these narrative elements, viewers can appreciate the integration of biomechanics into the dynamics of combat, sports, and fantastical abilities.",
+					"qas": [
+						{
+							"id": "082",
+							"is_impossible": false,
+							"question": "How is biomechanics depicted in 'Anime'?",
+							"answers": [
+								{
+									"text": "In 'Naruto', characters like Naruto and Sasuke engage in intense martial arts battles, showcasing various biomechanical principles such as agility, strength, and balance.",
+									"answer_start": 1
+								}
+							]
+						}
+					]
+				},
+
+				{
+					"context": "Friction is the force that resists the relative motion or tendency of such motion of two surfaces in contact. It plays a crucial role in various aspects of daily life, including transportation, machinery operation, and sports performance. Understanding friction is important in fields such as physics, engineering, and materials science. In anime narratives, friction can be depicted in various contexts, such as characters sliding or gripping surfaces during action scenes, vehicles braking or skidding during chase sequences, or the use of friction-enhancing techniques in sports competitions. By incorporating friction into storytelling, anime offers an imaginative exploration of the physical principles underlying interactions between objects and surfaces.",
+					"qas": [
+						{
+							
+							"id": "083",
+							"is_impossible": false,
+							"question": "What is friction?",
+							"answers": [
+								{
+									"text": "the force that resists the relative motion or tendency of such motion of two surfaces in contact.",
+									"answer_start": 12
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": " In 'My Hero Academia', characters like Izuku Midoriya and Katsuki Bakugo utilize friction-enhancing techniques such as 'One For All Full Cowl' and 'Explosion' to enhance their agility and combat abilities. Similarly, in 'Initial D', the characters engage in intense street racing battles where vehicle friction and tire grip play a critical role in determining the outcome of races. Additionally, in 'Haikyuu!!', volleyball players strategically use friction to control the trajectory and spin of the ball during serves, spikes, and receives. Through these narrative elements, viewers can appreciate the significance of friction in both action-packed sequences and sports competitions.",
+					"qas": [
+						{
+							"id": "084",
+							"is_impossible": false,
+							"question": "How is friction explained in Anime",
+							"answers": [
+								{
+									"text": "In 'My Hero Academia', characters like Izuku Midoriya and Katsuki Bakugo utilize friction-enhancing techniques such as 'One For All Full Cowl' and 'Explosion' to enhance their agility and combat abilities.",
+									"answer_start": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "Fertilization is the process by which gametes, male and female reproductive cells, fuse to form a new organism. It is a fundamental biological event that initiates the development of new life in sexually reproducing organisms. Understanding fertilization is crucial in fields such as biology, reproductive medicine, and genetics. In anime narratives, fertilization can be depicted in various contexts, such as romantic relationships leading to pregnancy, the birth of mythical or supernatural beings, or scientific experiments involving genetic manipulation. By incorporating fertilization into storytelling, anime offers an imaginative exploration of the origins of life and the complexities of reproduction.",
+					"qas": [
+						{
+							
+							"id": "085",
+							"is_impossible": false,
+							"question": "What is fertilization?",
+							"answers": [
+								{
+									"text": "the process by which gametes, male and female reproductive cells, fuse to form a new organism.",
+									"answer_start": 17
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Sword Art Online', Kazuto and Asuna experience the joys and challenges of nurturing a new life in both virtual and real worlds, symbolizing the process of fertilization and the beginnings of new life. 'Naruto' delves into the themes of inheritance and legacy, where Naruto Uzumaki embraces his role as a bearer of his lineage, reflecting the biological process of passing traits through generations. 'Attack on Titan' addresses the transmission of Titan powers as an allegory to genetic inheritance, showcasing the burden and responsibilities that come with inherited traits.",
+					"qas": [
+						{
+							"id": "086",
+							"is_impossible": false,
+							"question": "How is fertilization symbolically depicted in Anime?",
+							"answers": [
+								{
+									"text": "In 'Sword Art Online', Kazuto and Asuna experience the joys and challenges of nurturing a new life in both virtual and real worlds, symbolizing the process of fertilization and the beginnings of new life. 'Naruto' delves into the themes of inheritance and legacy, where Naruto Uzumaki embraces his role as a bearer of his lineage, reflecting the biological process of passing traits through generations. 'Attack on Titan' addresses the transmission of Titan powers as an allegory to genetic inheritance, showcasing the burden and responsibilities that come with inherited traits.",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				},
+
+
+				{
+					"context": "Antibiotics are medications used to treat bacterial infections by either killing bacteria or preventing their growth. They are a vital tool in modern medicine for combating a wide range of bacterial diseases and infections. Understanding antibiotics is crucial in fields such as medicine, pharmacology, and public health. In anime narratives, antibiotics may be depicted in various contexts, such as characters receiving medical treatment for infections, scientists developing new drugs to combat fictional diseases, or the use of herbal remedies with antibiotic properties in traditional healing practices. By incorporating antibiotics into storytelling, anime offers an imaginative exploration of medical interventions and their implications for health and society.",
+					"qas": [
+						{
+							
+							"id": "087",
+							"is_impossible": false,
+							"question": "What are antibiotics?",
+							"answers": [
+								{
+									"text": "medications used to treat bacterial infections by either killing bacteria or preventing their growth.",
+									"answer_start": 16
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In 'Cells at Work!', the characters, including White Blood Cell and Macrophage, engage in battles against bacterial invaders within the body, symbolizing the immune system's response to infections that may require antibiotics for treatment. Similarly, in 'Dr. Stone', the protagonist Senku Ishigami utilizes his knowledge of science and technology to develop antibiotics and other medical treatments in a post-apocalyptic world where modern medicine is scarce. Additionally, in 'Natsume's Book of Friends', traditional Japanese folklore includes references to herbs and plants with antibacterial properties, reflecting cultural beliefs and practices related to healing and herbal medicine. Through these narrative elements, viewers can explore the role of antibiotics in both medical science and fictional worlds.",
+					"qas": [
+						{
+							"id": "088",
+							"is_impossible": false,
+							"question": "How are antibiotics depicted in 'Anime'?",
+							"answers": [
+								{
+									"text": "bacterial invaders within the body, symbolizing the immune system's response to infections that may require antibiotics for treatment. Similarly, in 'Dr. Stone', the protagonist Senku Ishigami utilizes his knowledge of science and technology to develop antibiotics and other medical treatments in a post-apocalyptic world where modern medicine is scarce.",
+									"answer_start": 106
+								}
+							]
+						}
+					]
+				},
+
+				{
+					"context": "In physics, vibrations refer to the oscillation of an object around an equilibrium point. This concept is central in understanding various phenomena such as sound waves and earthquake tremors. In 'My Hero Academia', one of the characters, Yo Shindo, has a Quirk called 'Vibrate'. This Quirk allows him to generate powerful vibrations that can disrupt structures and create shockwaves, demonstrating a practical application of this physical principle in a dramatic and visual way.",
+					"qas": [
+						{
+							"id": "089",
+							"is_impossible": false,
+							"question": "How is the concept of vibrations demonstrated in 'My Hero Academia'?",
+							"answers": [
+								{
+									"text": "Yo Shindo, has a Quirk called 'Vibrate'. This Quirk allows him to generate powerful vibrations",
+									"answer_start": 239
+								}
+							]
+						}
+					]
+				},
+				{
+					"context": "In the anime 'My Hero Academia', the concept of vibration is explained and can be seen as one of the charecters has the quirk , also called powers of vibrations.",
+					"qas": [
+						{
+							"id": "089",
+							"is_impossible": false,
+							"question": "Which anime demostartes the concept of vibration?",
+							"answers": [
+								{
+									"text": "In the anime 'My Hero Academia', the concept of vibration is explained and can be seen as one of the charecters has the quirk , also called powers of vibrations",
+									"answer_start": 0
+								}
+							]
+						}
+					]
+				}
+			]
+
+}
